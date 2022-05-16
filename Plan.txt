@@ -1,0 +1,58 @@
+Plan
+
+Begin with html - heading banner -  
+-Import font from google fonts - tbd
+- h1 - The Hive
+-input search bar
+-images for logo and login
+
+CSS - 
+-create colour variables based on colour palette - store these in the root
+-fix heading banner to the top of the page, stays as you scroll
+
+-HTML - Side nav bar 
+-Create ul
+    -home 
+    -find us
+    -testimonials
+    -contact
+-this will form buttons
+
+CSS - 
+- Fix side nav bar to stay in place whilst scrolling
+- style buttons using root variables
+- add font to the buttons
+
+HTML -
+-Add background image - honeycomb
+
+CSS - 
+-Position background image
+
+-HTML 
+-import main image of children playing
+-import ofsted, NECPA and naeyc accreditation images
+
+-CSS
+-Use flex positioning to position images
+
+HTML 
+-import video and first paragraph of text
+
+-CSS
+-Use flexbox positioning to position video and first paragraph
+
+-HTML
+-import final paragraphs and images
+
+CSS
+-use flexbox to position images and text on page
+
+-HTML
+-Social media logos
+-Link to pages
+
+CSS
+-Position and size social media logos
+
+
